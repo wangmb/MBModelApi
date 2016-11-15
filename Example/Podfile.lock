@@ -1,0 +1,19 @@
+PODS:
+  - MBCore (0.1.1)
+  - MBModelApi (0.0.1):
+    - MBCore
+
+DEPENDENCIES:
+  - MBModelApi (from `../`)
+
+EXTERNAL SOURCES:
+  MBModelApi:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MBCore: 720457200d7057ad0efb662a5b223563106e4bdc
+  MBModelApi: 1fab47f9bf2a02a34ca21fc72b7efbdf86f75400
+
+PODFILE CHECKSUM: 890e19eb1b86f966c26aca0203c1aa61a249fa63
+
+COCOAPODS: 1.1.1

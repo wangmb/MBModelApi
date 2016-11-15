@@ -1,3 +1,6 @@
+source 'https://github.com/wangmb/MBSpecs.git'  #私有spec仓库地址
+source 'https://github.com/CocoaPods/Specs.git'  #官方仓库地址
+
 use_frameworks!
 target 'MBModelApi_Tests' do
   pod 'MBModelApi', :path => '../'

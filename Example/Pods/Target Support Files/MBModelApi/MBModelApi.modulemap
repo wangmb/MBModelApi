@@ -1,0 +1,6 @@
+framework module MBModelApi {
+  umbrella header "MBModelApi-umbrella.h"
+
+  export *
+  module * { export * }
+}
